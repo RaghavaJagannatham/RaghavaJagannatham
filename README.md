@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77222&size=29&multiline=true&width=700&lines=Welcome+To+Ramesh+Chandra's+GitHub+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23929292&duration=6000&lines=Raghava+Jagannatham)](https://git.io/typing-svg)
 
 <a href="#"><img width="28%" height="auto" align="right" src="https://user-images.githubusercontent.com/76244600/130684066-fb0b5e47-6c93-469e-ba45-7cb62833b965.png" /></a>
 ## Hi there I'm Raghava Jagannatham <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
@@ -28,19 +28,6 @@
 
   <br>
   <br>
-  
- <!-- ## My Blogs -->
-<!-- <oi>
-  <li>
-<a href="https://rameshchandra22.hashnode.dev/top-15-vs-code-extensions-for-web-development"><strong>Top 15 VS Code Extensions For Web Development</strong></a></li>
-  <li>
-<a href="https://rameshchandra22.hashnode.dev/getting-started-with-github-pages"><strong>Getting started with GitHub pages</strong></a></li>
-  <li>
-<a href="https://rameshchandra22.hashnode.dev/css-gradient-the-ultimate-tool"><strong>CSS Gradient: The Ultimate Tool</strong></a></li>
-    <li>
-<a href="https://rameshchandra22.hashnode.dev/19-tips-to-google-like-a-pro"><strong>19 tips to Google like a pro</strong></a></li>
-  </oi> -->
-<br>
 
  ## Languages and Tools:
  ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -77,28 +64,19 @@
  <a href="#"><img  alt="Raghava Jagannathams's streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=Rameshchandrapola&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" /> </a></p>
 
 
-<a href="#"><img alt="Raghava Jagannathams's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rameshchandrapola&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="#"><img alt="Raghava Jagannathams's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rameshchandrapola&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
-<!-- 
-<table><td valign="top" width="50%">
- -->
-<!-- </td><td valign="top" width="50%"> -->
 
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rameshchandrapola&theme=radical&hide_border=true&stroke=0000&background=060A0CD0" align="left" style="width: 100%" /> -->
-<!-- </td></table>   -->
 
-<h2 align="center">My Trending Repos 💻</h2>
- <p align='center'>
-  <a href="https://github.com/Rameshchandrapola/Webdev-Projects"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rameshchandrapola&repo=Webdev-Projects&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
-<a href="https://github.com/Rameshchandrapola/Team-Dijkstra_Hackx"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rameshchandrapola&repo=Team-Dijkstra_Hackx&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
-<a href="https://github.com/Rameshchandrapola/Blogs"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rameshchandrapola&repo=Blogs&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
-</p>
-<br>
-<a><img src="https://img.shields.io/github/followers/Rameshchandrapola?label=Followers&style=social" alt="GitHub Badge"></a>
+<!-- <h2 align="center">My Trending Repos 💻</h2> -->
+ <!-- <p align='center'> -->
+  <!-- <a href="https://github.com/Rameshchandrapola/Webdev-Projects"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rameshchandrapola&repo=Webdev-Projects&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a> -->
+<!-- <a href="https://github.com/Rameshchandrapola/Team-Dijkstra_Hackx"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rameshchandrapola&repo=Team-Dijkstra_Hackx&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a> -->
+<!-- <a href="https://github.com/Rameshchandrapola/Blogs"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rameshchandrapola&repo=Blogs&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a> -->
+<!-- </p> -->
+<!-- <br> -->
+<!-- <a><img src="https://img.shields.io/github/followers/Rameshchandrapola?label=Followers&style=social" alt="GitHub Badge"></a> -->
 
 <!-- ![Visitor Count](https://komarev.com/ghpvc/?username=Rameshchandrapola&color=orange&style=flat-square) -->
 
   <!-- ### <h1><p align ="center"> Show Some ❤️ By  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> My repositories!<img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" width="25px"></p> </h1> -->
-
- 
-
