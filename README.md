@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on Frontend projects
 
 
-
+<!-- Works as the connect with me portal -->
 ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 <a href="https://www.linkedin.com/in/pola-ramesh-chandra-b78347202/" target="blank" >
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
