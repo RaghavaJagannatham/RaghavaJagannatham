@@ -54,7 +54,7 @@
 <br>
 <!--  <a > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rameshchandrapola&layout=compact&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=000&text_color=000"  align="center" height="165" /></a> -->
  <p align="center" >
- <a href="#"><img alt="Rameshchandra's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rameshchandrapola&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117" /></a></p>
+ <a href="#"><img alt="Raghava's Top Languages" src="https://github-readme-stats.vercel.app/api?username=https://github.com/RaghavaJagannatham" /></a></p>
 
 ## 📊 My Github Stats <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" width="45px">
 
