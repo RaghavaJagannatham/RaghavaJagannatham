@@ -14,16 +14,16 @@
 
 <!-- Works as the connect with me portal -->
 ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-<a href="https://www.linkedin.com/in/pola-ramesh-chandra-b78347202/" target="blank" >
+<a href="https://www.linkedin.com/in/raghava-jagannatham-2334681a9/" target="blank" >
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-<a href="https://twitter.com/POLARAMESHCHAN2" target="blank" >
+<a href="https://twitter.com/Raghavastwt" target="blank" >
     <img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/polarameshchandra/">
+  <a href="https://www.instagram.com/manii_as_rj/">
     <img align="left"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:pola.rameshchandra22@gmail.com">
+  <a href="mailto:raghavajagannatham9@gmail.com">
     <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
@@ -54,7 +54,7 @@
 <br>
 <!--  <a > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rameshchandrapola&layout=compact&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=000&text_color=000"  align="center" height="165" /></a> -->
  <p align="center" >
- <a href="#"><img alt="Raghava's Top Languages" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)" /></a></p>
+ <a href="#"><img alt="Raghava's Top Languages" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raghavajagannatham)](https://github.com/anuraghazra/github-readme-stats)" /></a></p>
 
 ## 📊 My Github Stats <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" width="45px">
 
@@ -83,10 +83,6 @@
 
 
 
-
-
-
-<p>Not working below this</p>
 
 <!-- <a href="#"><img alt="Raghava Jagannathams's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rameshchandrapola&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
