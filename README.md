@@ -53,16 +53,19 @@
 
 <br>
 <!--  <a > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rameshchandrapola&layout=compact&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=000&text_color=000"  align="center" height="165" /></a> -->
- <p align="center" >
- <a href="#"><img alt="Raghava's Top Languages" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)" /></a></p>
+<!--  <p align="center" >
+ <a href="#"><img alt="Raghava's Top Languages" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)" /></a></p> -->
 
 ## 📊 My Github Stats <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" width="45px">
 
   
    <p align="center" >
  <!-- <a href="#"><img alt="Raghava Jagannathams's Github Stats"   src="https://github-readme-stats.vercel.app/api?username=Rameshchandrapola&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></p> -->
-  <p align="center" >
- <a href="#"><img  alt="Raghava Jagannathams's streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=Rameshchandrapola&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" /> </a></p>
+<!--   <p align="center" >
+ <a href="#"><img  alt="Raghava Jagannathams's streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=Rameshchandrapola&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" /> </a></p> -->
+  
+   <p align="center" >
+ <a href="#"><img  alt="Raghava Jagannathams's streak"  src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RaghavaJagannatham&theme=dark&hide_border=true)](https://git.io/streak-stats)" /> </a></p>
 
 
 
