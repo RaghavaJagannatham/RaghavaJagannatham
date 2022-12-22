@@ -62,7 +62,7 @@
  
  
  
-<!-- 
+
 ## 📊 My Github Stats <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" width="45px">
 
   
@@ -70,7 +70,7 @@
  <a href="#"><img alt="Raghava Jagannathams's Github Stats"   src="https://github-readme-stats.vercel.app/api?username=Raghavajagannatham&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&hide=prs" /></a></p>
  
 <p align="center" >
- <a href="#"><img  alt="Raghava Jagannathams's streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=Raghavajagannatham&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" /> </a></p> -->
+ <a href="#"><img  alt="Raghava Jagannathams's streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=Raghavajagannatham&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" /> </a></p> 
 
 
 
