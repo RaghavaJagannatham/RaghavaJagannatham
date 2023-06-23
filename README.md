@@ -98,7 +98,7 @@
 <h2 align="center">My Trending Repos 💻</h2>
   <p align='center'> 
   
-<a href="https://github.com/RaghavaJagannatham/Leetcode"><img width="282" src="[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RaghavaJagannatham&repo=Leetcode)]" alt="vite-boilerplate"></a>
+<a href="https://github.com/RaghavaJagannatham/Leetcode"><img width="282" src="[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)" alt="vite-boilerplate"></a>
 </p>
 <br>
 <a><img src="https://img.shields.io/github/followers/Rameshchandrapola?label=Followers&style=social" alt="GitHub Badge"></a>
