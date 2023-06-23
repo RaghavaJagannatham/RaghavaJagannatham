@@ -98,7 +98,7 @@
 <h2 align="center">My Trending Repos 💻</h2>
   <p align='center'> 
   
-<a href="https://github.com/RaghavaJagannatham/Leetcode"><img width="282" src="https://github-readme-activity-graph.vercel.app/graph?username=RaghavaJagannatham&bg_color=1d1b1c&color=ffffff&line=2fd8ee&point=2ffef0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" alt="vite-boilerplate"></a>
+<a href="https://github.com/RaghavaJagannatham/Leetcode"><img width="282" src="https://honzaap.github.io/GithubCity/?name=RaghavaJagannatham&year=2023" alt="vite-boilerplate"></a>
 
 </p>
 <br>
