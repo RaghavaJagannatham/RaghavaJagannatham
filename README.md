@@ -91,7 +91,7 @@
 
 
 
-<a href="#"><img alt="Raghava Jagannathams's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RaghavaJagannatham&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="#"><img alt="Raghava Jagannathams's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=RaghavaJagannatham&bg_color=1d1b1c&color=ffffff&line=2fd8ee&point=2ffef0&area=true&hide_border=true" /></a>
 
 
 
