@@ -101,7 +101,6 @@
 <a href="https://github.com/RaghavaJagannatham/Leetcode"><img width="282" src="[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)"></a>
 </p>
 <br>
-<a><img src="https://img.shields.io/github/followers/Rameshchandrapola?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!-- ![Visitor Count](https://komarev.com/ghpvc/?username=Rameshchandrapola&color=orange&style=flat-square) -->
 
